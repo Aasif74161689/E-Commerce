@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.cls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  border: 1px solid black;
+}
+
+.cls1 {
+  border: 1px solid;
+  margin: 2px;
+}
